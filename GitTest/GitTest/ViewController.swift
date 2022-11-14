@@ -22,8 +22,7 @@ class ViewController: UIViewController {
         
         // home
         
-        // test
-    }
+        // hotFix
 
 
 }
