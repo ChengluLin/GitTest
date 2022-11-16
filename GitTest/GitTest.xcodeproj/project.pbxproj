@@ -13,7 +13,6 @@
 		BD594148292224290009164C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD594146292224290009164C /* Main.storyboard */; };
 		BD59414A2922242A0009164C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5941492922242A0009164C /* Assets.xcassets */; };
 		BD59414D2922242A0009164C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD59414B2922242A0009164C /* LaunchScreen.storyboard */; };
-		BDEDA9B12924D4E500FC51AD /* feature2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEDA9B02924D4E500FC51AD /* feature2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		BD5941492922242A0009164C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD59414C2922242A0009164C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD59414E2922242A0009164C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BDEDA9B02924D4E500FC51AD /* feature2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				BD594140292224290009164C /* AppDelegate.swift */,
 				BD594142292224290009164C /* SceneDelegate.swift */,
 				BD594144292224290009164C /* ViewController.swift */,
-				BDEDA9B02924D4E500FC51AD /* feature2.swift */,
 				BD594146292224290009164C /* Main.storyboard */,
 				BD5941492922242A0009164C /* Assets.xcassets */,
 				BD59414B2922242A0009164C /* LaunchScreen.storyboard */,
@@ -144,7 +141,6 @@
 				BD594145292224290009164C /* ViewController.swift in Sources */,
 				BD594141292224290009164C /* AppDelegate.swift in Sources */,
 				BD594143292224290009164C /* SceneDelegate.swift in Sources */,
-				BDEDA9B12924D4E500FC51AD /* feature2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
