@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BD1CB9DF2930B9F00081C26D /* developer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1CB9DE2930B9F00081C26D /* developer.swift */; };
+		BD97FA2D29D670FA001C1129 /* FCM.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD97FA2C29D670FA001C1129 /* FCM.swift */; };
 		BDADD7302930BE2A00B77FB5 /* developer123.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDADD72F2930BE2A00B77FB5 /* developer123.swift */; };
 		BDADD7322930BED800B77FB5 /* dev3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDADD7312930BED800B77FB5 /* dev3.swift */; };
 		BDADD7342930BEFB00B77FB5 /* dev4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDADD7332930BEFB00B77FB5 /* dev4.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		BD1CB9DE2930B9F00081C26D /* developer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = developer.swift; sourceTree = "<group>"; };
+		BD97FA2C29D670FA001C1129 /* FCM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FCM.swift; sourceTree = "<group>"; };
 		BDADD72F2930BE2A00B77FB5 /* developer123.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = developer123.swift; sourceTree = "<group>"; };
 		BDADD7312930BED800B77FB5 /* dev3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dev3.swift; sourceTree = "<group>"; };
 		BDADD7332930BEFB00B77FB5 /* dev4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dev4.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				BDD5E05A2927B35700AA2C61 /* ViewController.swift */,
 				BD1CB9DE2930B9F00081C26D /* developer.swift */,
 				BDADD72F2930BE2A00B77FB5 /* developer123.swift */,
+				BD97FA2C29D670FA001C1129 /* FCM.swift */,
 				BDADD7312930BED800B77FB5 /* dev3.swift */,
 				BDADD7332930BEFB00B77FB5 /* dev4.swift */,
 				BDD5E05C2927B35700AA2C61 /* Main.storyboard */,
@@ -152,6 +155,7 @@
 			files = (
 				BDADD7342930BEFB00B77FB5 /* dev4.swift in Sources */,
 				BDADD7302930BE2A00B77FB5 /* developer123.swift in Sources */,
+				BD97FA2D29D670FA001C1129 /* FCM.swift in Sources */,
 				BDADD7322930BED800B77FB5 /* dev3.swift in Sources */,
 				BD1CB9DF2930B9F00081C26D /* developer.swift in Sources */,
 				BDD5E05B2927B35700AA2C61 /* ViewController.swift in Sources */,
