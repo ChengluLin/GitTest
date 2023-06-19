@@ -7,6 +7,6 @@
 
 import Foundation
 
-class Feature2 {
-    
+class Feature2DidFix {
+    let fix: String = "fix OK"
 }
