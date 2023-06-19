@@ -9,4 +9,7 @@ import Foundation
 
 class Feature4 {
     
+    func feature() {
+        print("feature OK")
+    }
 }
