@@ -9,4 +9,5 @@ import Foundation
 
 class Feature3 {
     print("fix second")
+    print("fix first")
 }
